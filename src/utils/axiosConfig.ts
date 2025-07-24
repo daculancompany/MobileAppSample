@@ -5,7 +5,7 @@ import {Alert} from 'react-native';
 import {showMessage} from 'react-native-flash-message';
 
 // Base API URL
-const BASE_URL = 'https://9d09-180-190-46-9.ngrok-free.app/api/';
+const BASE_URL = 'https://fdf3-120-28-218-135.ngrok-free.app/api/';
 
 // Axios instance
 const instance = axios.create({
